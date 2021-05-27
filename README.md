@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/riskycase/riskycase/trunk/images/header.png" />
 
+![Views](https://komarev.com/ghpvc/?username=riskycase&label=Profile%20views)
+
 ## About me
 
 - Building on **my native android skills**
