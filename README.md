@@ -14,34 +14,13 @@
 ### Good Experience
 
 <p>
-    <code>
-        <img height="32" width="32" src="images/icons/nodejs-original.svg">
-        <img height="32" width="32" src="images/icons/git-original.svg">
-        <img height="32" width="32" src="images/icons/typescript-original.svg">
-        <img height="32" width="32" src="images/icons/express-original.svg">
-        <img height="32" width="32" src="images/icons/javascript-original.svg"> 
-        <img height="32" width="32" src="images/icons/tauri.svg"> 
-        <img height="32" width="32" src="images/icons/html5-original.svg"> 
-        <img height="32" width="32" src="images/icons/rust.svg"> 
-        <img height="32" width="32" src="images/icons/kotlin-original.svg"> 
-        <img height="32" width="32" src="images/icons/android-plain.svg"> 
-        <img height="32" width="32" src="images/icons/gnubash.svg"> 
-        <img height="32" width="32" src="images/icons/css3-original.svg"> 
-        <img height="32" width="32" src="images/icons/linux-original.svg"> 
-        <img height="32" width="32" src="images/icons/firebase-plain.svg">
-    </code>
+    <code><img height="32" width="32" src="images/icons/nodejs-original.svg"><img height="32" width="32" src="images/icons/git-original.svg"><img height="32" width="32" src="images/icons/typescript-original.svg"><img height="32" width="32" src="images/icons/express-original.svg"><img height="32" width="32" src="images/icons/javascript-original.svg"><img height="32" width="32" src="images/icons/tauri.svg"><img height="32" width="32" src="images/icons/html5-original.svg"><img height="32" width="32" src="images/icons/rust.svg"><img height="32" width="32" src="images/icons/kotlin-original.svg"><img height="32" width="32" src="images/icons/android-plain.svg"><img height="32" width="32" src="images/icons/gnubash.svg"><img height="32" width="32" src="images/icons/css3-original.svg"><img height="32" width="32" src="images/icons/linux-original.svg"><img height="32" width="32" src="images/icons/firebase-plain.svg"></code>
 </p>
 
 ### Experimented with
 
 <p>
-    <code>
-        <img height="32" width="32" src="images/icons/vim.svg"> 
-        <img height="32" width="32" src="images/icons/bootstrap-plain.svg"> 
-        <img height="32" width="32" src="images/icons/electron-original.svg"> 
-        <img height="32" width="32" src="images/icons/go-original.svg"> 
-        <img height="32" width="32" src="images/icons/python-original.svg"> 
-    </code>
+    <code><img height="32" width="32" src="images/icons/vim.svg"><img height="32" width="32" src="images/icons/bootstrap-plain.svg"><img height="32" width="32" src="images/icons/electron-original.svg"><img height="32" width="32" src="images/icons/go-original.svg"><img height="32" width="32" src="images/icons/python-original.svg"></code>
 </p>
 
 ## Hacking machine
